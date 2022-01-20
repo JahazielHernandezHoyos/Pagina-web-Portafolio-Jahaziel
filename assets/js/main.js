@@ -251,20 +251,7 @@
 
 // mediumZoomMin 
 mediumZoom('.zoom', {
-	margin: 24,
-	background: '#000'});
-// 	background: '#fff',
-// 	scrollOffset: 0,
-// 	container: '#zoom-container',
-// 	zoomElement: '#zoom-element',
-// 	backgroundPadding: 0,
-// 	scrollBackground: true,
-// 	closeOnScroll: false,
-// 	closeOnOutsideClick: false,
-// 	onOpen: function() {
-// 		$('body').addClass('zoom-open');
-// 	},
-// 	onClose: function() {
-// 		$('body').removeClass('zoom-open');
-// 	}
-// });
+	margin: 24 ,
+	scrollOffset: 10,
+	background: '#000',
+});
