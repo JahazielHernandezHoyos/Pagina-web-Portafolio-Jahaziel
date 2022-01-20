@@ -249,7 +249,7 @@
 
 })(jQuery);
 
-// mediumZoomMin 
+// mediumZoom zoom de las imagenes
 mediumZoom('.zoom', {
 	margin: 24 ,
 	scrollOffset: 0,
