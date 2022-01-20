@@ -252,6 +252,6 @@
 // mediumZoomMin 
 mediumZoom('.zoom', {
 	margin: 24 ,
-	scrollOffset: 10,
+	scrollOffset: 0,
 	background: '#000',
 });
